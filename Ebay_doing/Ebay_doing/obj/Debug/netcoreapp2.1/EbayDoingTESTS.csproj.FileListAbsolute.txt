@@ -1,0 +1,15 @@
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\EbayDoingTESTS.deps.json
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\EbayDoingTESTS.runtimeconfig.json
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\EbayDoingTESTS.runtimeconfig.dev.json
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\EbayDoingTESTS.dll
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\obj\Debug\netcoreapp2.1\EbayDoingTESTS.csprojAssemblyReference.cache
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\obj\Debug\netcoreapp2.1\EbayDoingTESTS.csproj.CoreCompileInputs.cache
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\obj\Debug\netcoreapp2.1\EbayDoingTESTS.AssemblyInfoInputs.cache
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\obj\Debug\netcoreapp2.1\EbayDoingTESTS.AssemblyInfo.cs
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\bin\Debug\netcoreapp2.1\EbayDoingTESTS.pdb
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\obj\Debug\netcoreapp2.1\EbayDoingTESTS.dll
+C:\Users\den4i\source\repos\Ebay_doing\Ebay_doing\obj\Debug\netcoreapp2.1\EbayDoingTESTS.pdb
